@@ -1,0 +1,3 @@
+﻿  BarGraph.cpp
+D:\C++ Projects\BarGraph\BarGraph.cpp(65,28): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  BarGraph.vcxproj -> D:\C++ Projects\BarGraph\x64\Debug\BarGraph.exe
